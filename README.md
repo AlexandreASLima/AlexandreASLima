@@ -1,8 +1,13 @@
 ## Olá, eu sou o Alexandre Lima! 👋
 <div align="center">
   <a href="https://github.com/AlexandreASLima">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreASLima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreASLima&layout=compact&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreASLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreASLima&layout=compact&theme=dracula"/>
+  
+  <a href="https://github.com/AlexandreASLima">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreASLima&repo=github-readme-stats&theme=github_dark" /></a>
+  <a href="https://github.com/AlexandreASLima">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreASLima&repo=convoychat&theme=github_dark" /></a>
 </div>
   
   ##
